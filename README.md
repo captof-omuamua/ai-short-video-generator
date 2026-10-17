@@ -19,8 +19,6 @@ Generation requires external services and may incur charges. These are source-de
 
 ## Status
 
-Archived source, not a production-ready deployment. Read `PROJECT_NOTES.md` before supplying credentials or deploying. The original client components import a database connection using a NEXT_PUBLIC variable. Database credentials must move behind authenticated server APIs before using a real database. Review the Gemini key import boundary too.
+This project was developed as a prototype and is no longer actively maintained. It is preserved here as a record of the implementation and experiments at that stage. External services, models, and dependencies may require updates before running it today. See `PROJECT_NOTES.md` for technical setup and deployment considerations.
 
 Dependencies, build caches, the real environment file, and generated audio were excluded. The blank environment example contains names only. A copied configuration value was redacted from source. The original ZIP is unchanged.
-
-Authorship, tutorial/template attribution, asset rights, and project licensing need confirmation. Third-party packages and services retain their respective terms and licenses.
